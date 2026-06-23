@@ -1,1 +1,1 @@
-worker: python bingo_bot.py
+worker: python -u bingo_bot.py
